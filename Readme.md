@@ -1,24 +1,12 @@
-## ⭐ Razorpay Clone ⭐
+**Step 1:** [Download](https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
 
-It's a website that has been designed to mimic the design of the popular Indian payment gateway, Razorpay.
+**Step 2:** To run:
 
-⭕ **This Site is Fully Responsive**
-<br>
-<br>
+```bash
+npm install
+npm run start
+```
 
-## 📌 **Live Site URL:** <a href="">**Visit Now** 🚀</a>
+**Step 3:** Goto [http://localhost:5173](http://localhost:5173)
 
-<br>
-
-## 📌 Tech Stack
-
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
-<br>
-<br>
-
-## 📬 Connect With Me
-
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/)
-
+Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/using-postcss)
